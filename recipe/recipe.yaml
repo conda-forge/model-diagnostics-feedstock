@@ -1,5 +1,5 @@
 context:
-  version: "1.4.3"
+  version: "1.5.0"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/model-diagnostics/model_diagnostics-${{ version }}.tar.gz
-  sha256: 79464f21fa4adfb5b77c76dfc4aebb476cb3039f1151c9199c365f3b70850a1b
+  sha256: 9375b8864f0d4d10eb5f6f7c8533b34b10d4f517eea02326f03a5253e2be55dc
 
 build:
   noarch: python
